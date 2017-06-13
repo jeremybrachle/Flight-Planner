@@ -1,4 +1,4 @@
-#LinkedLists, Stacks, Queues, and The Flight Planner!
+LinkedLists, Stacks, Queues, and The Flight Planner!
 Sprint 2 - CSE 2341 - Fall 2016
 
 ## Introduction
