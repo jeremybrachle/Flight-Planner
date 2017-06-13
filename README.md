@@ -1,7 +1,7 @@
-LinkedLists, Stacks, Queues, and The Flight Planner!
+#LinkedLists, Stacks, Queues, and The Flight Planner!
 Sprint 2 - CSE 2341 - Fall 2016
 
-## Introduction
+Introduction
 In Sprint 2, you will implement a LinkedList, a Stack, and a Queue in C++, and you will use the classes as part of a Flight Planner. You will use the classes you build for additional projects later in the semester, so it works in your favor to build a robust implementation of each class. For the classes you build, you will use the CATCH framework for unit-testing. The header file for the CATCH framework is included in this sprint folder.
 
 ## The LinkedList, Stack, and Queue Classes
